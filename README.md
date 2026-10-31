@@ -8,8 +8,6 @@ Saat ini saya fokus pada bidang **Data Science**, **Natural Language Processing 
 
 Saya tertarik berkolaborasi dalam proyek sains data, analisis data, pemodelan *machine learning*, otomatisasi *web scraping*, serta pembuatan dasbor interaktif.
 
-Saat ini saya terus memperdalam eksplorasi pada arsitektur *Large Language Models (LLM)*, *deep learning*, dan rekayasa fitur untuk pemecahan masalah berbasis data!
-
 ## 🌐 Media Sosial:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/dhafinwan)
@@ -38,11 +36,17 @@ Saat ini saya terus memperdalam eksplorasi pada arsitektur *Large Language Model
 
 ## 📈 Statistik & Metrik GitHub:
 
-[![Statistik GitHub Dhafin](https://github-readme-stats.vercel.app/api?username=dhafinwan&show_icons=true&theme=radical)](https://github.com/dhafinwan)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhafinwan&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
 
-[![GitHub Streak Dhafin](https://streak-stats.demolab.com?user=dhafinwan&theme=radical)](https://github.com/dhafinwan)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=dhafinwan&theme=radical" alt="GitHub Streak" />
+</p>
 
-[![Bahasa yang Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=dhafinwan&layout=compact&theme=radical)](https://github.com/dhafinwan)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhafinwan&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
 
 ---
 
