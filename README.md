@@ -38,13 +38,11 @@ Saat ini saya terus memperdalam eksplorasi pada arsitektur *Large Language Model
 
 ## 📈 Statistik & Metrik GitHub:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhafinwan&show_icons=true&theme=radical" alt="Dhafin's GitHub Stats" />
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=dhafinwan&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhafinwan&layout=compact&theme=radical" alt="Most Used Languages" />
-</div>
+[![Statistik GitHub Dhafin](https://github-readme-stats.vercel.app/api?username=dhafinwan&show_icons=true&theme=radical)](https://github.com/dhafinwan)
+
+[![GitHub Streak Dhafin](https://streak-stats.demolab.com?user=dhafinwan&theme=radical)](https://github.com/dhafinwan)
+
+[![Bahasa yang Digunakan](https://github-readme-stats.vercel.app/api/top-langs/?username=dhafinwan&layout=compact&theme=radical)](https://github.com/dhafinwan)
 
 ---
 
